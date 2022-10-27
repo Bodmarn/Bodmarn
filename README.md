@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bodmarn
+- 👋 Hi, I’m Bodmarn
 - 👀 I’m interested in anything code
 - 🌱 I’m currently learning React, Node JS and Python.
 - 💞️ I’m looking to collaborating on Open Source Projects
