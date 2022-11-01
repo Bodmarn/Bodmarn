@@ -2,6 +2,7 @@
 <h1 align="center">Web Developer</h1>
 <h3 align="center">I’m a Frontend Web Developer equipped with the latest techniques in Developing and Designing responsive websites for mobile, tablet, and desktop devices.</h3>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
+<br>
 
 <p align="left"> <a href="https://twitter.com/marndev" target="blank"><img src="https://img.shields.io/twitter/follow/marndev?logo=twitter&style=for-the-badge" alt="marndev" /></a> </p>
 
