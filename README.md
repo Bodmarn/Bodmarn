@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, Node JS, Python**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Crypto Currency**
 
 - 📫 How to reach me **olabodefasola2@gmail.com**
 
