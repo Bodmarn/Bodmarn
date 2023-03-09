@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 <br>
 
-<p align="left"> <a href="https://twitter.com/marndev" target="blank"><img src="https://img.shields.io/twitter/follow/marndev?logo=twitter&style=for-the-badge" alt="marndev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Bodmarn" target="blank"><img src="https://img.shields.io/twitter/follow/marndev?logo=twitter&style=for-the-badge" alt="marndev" /></a> </p>
 
 - 🔭 I’m currently working on **React**
 
